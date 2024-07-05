@@ -3,9 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
-
-//UPDATE FILE LAIN
-
+//ini aku test
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
